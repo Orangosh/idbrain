@@ -1,4 +1,5 @@
-(ns idbrain.core)
+(ns idbrain.core
+  (:gen-class))
 
 (defn adding [a b]
   (+ a b))
